@@ -1,2 +1,2 @@
-# EECS_Summer2024
+# EECS_2024 Summer training
 Summer training
